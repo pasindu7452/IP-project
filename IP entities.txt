@@ -1,0 +1,9 @@
+entities:
+
+	students
+	academic staff
+	administration
+	time table
+	lecture hall
+	lecturer
+	labs
